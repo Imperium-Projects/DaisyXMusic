@@ -1,26 +1,16 @@
-<h1 align="center">DAISYX MUSIC V5.0 🎵</h1>
+<h1 align="center">🔥 Rakshas VC Fight Bot 🔥</h1>
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### ● A VC fight bot to fuck you opponent badly!
+### ● Supports playing recordings and Youtube Streaming
+
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/203ad4538be6d127833ef.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
 
-- Thumbnail Support
-- Playlist Support
-- Current playback support
-- Showing track names when skipping
-- Zero downtime, Fully Stable
-- Deezer,Youtube & Saavn playback support
-- Settings panel
-- Control with buttons
-- Userbot auto join
-- Channel Music Play
-- Keyboard selection support for youtube play
+-  
 
 ## 🚀 Deployment
 
@@ -58,7 +48,7 @@ $ python3 -m DaisyXMusic
 - `/search <query>` - search videos on youtube with details
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
-- `/video <song name>` - download videos you want quickly
+- `/video <song name>` - download videos y
 
 #### Admins only.
 - `/player` - open music player settings panel
@@ -104,33 +94,22 @@ If you donlt like to play in linked channel:
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
 
-#### Pmpermit
-- `.a` - approove someone to pm you
-- `.da` - disapproove someone to pm you
-+ Sudo Users can execute any command in any groups
+
+
 
 
 
 ### Inspiration
-- [Callsmusic](http://github.com/callsmusic/callsmusic)
-- [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot)
+-
+
+
 
 This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
 Also DaisyXmusic is inspired by many opensource bots and userbots
 
 #### Contributors
 - [InukaAsith](https://github.com/InukaAsith): Dev / Owner
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
-- [Hellboy-OP](https://github.com/hellboy-op)
-- [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
-- [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [Anjana-Ma](https://github.com/Anjana-Ma): Dev
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [azimazizov9150](https://github.com/azimazizov9150): Contributor
+
 
 
 ## Copyright & License 👮
